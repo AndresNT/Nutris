@@ -1,7 +1,7 @@
 
 package AccesoADatos;
 
-import Entidades.Paciente;
+import nutris.entidades.Paciente;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

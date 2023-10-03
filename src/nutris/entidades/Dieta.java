@@ -1,5 +1,5 @@
 
-package nutris;
+package nutris.entidades;
 
 import java.time.LocalDate;
 

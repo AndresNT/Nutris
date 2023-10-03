@@ -1,5 +1,5 @@
 
-package nutris;
+package nutris.entidades;
 
 
 public class Persona {
